@@ -1,0 +1,19 @@
+{
+    "fallen.title": "Fallen", 
+    "traditional.fourth.langname": "English", 
+    "fallen.checkbox.fps.name": "Change Max FPS", 
+    "fallen.checkbox.lang.name": "Language Selection", 
+    "fallen.button.start": "Start!", 
+    "fallen.game.piece.white": "White", 
+    "fallen.game.piece.black": "Black", 
+    "fallen.play.pvp": "PvP (2 Players)", 
+    "fallen.play.pve": "PvE (1 player)", 
+    "fallen.lock.pve.info": "PvE is yet to be released!", 
+    "fallen.play.select.title": "Select Mode (PvP/PvE)", 
+    "fallen.game.specifier.turn": "Turn", 
+    "traditional.fourth.settings": "Settings", 
+    "traditional.fourth.settings.max_fps": "Max FPS", 
+    "traditional.fourth.settings.lang": "Language", 
+    "fallen.setting.ear.name": "Environment Accident Rate (EAR)", 
+    "fallen.checkbox.ear.name": "Select EAR"
+}

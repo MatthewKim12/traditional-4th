@@ -1,0 +1,19 @@
+{
+    "fallen.title": "不墜落",
+    "traditional.fourth.langname": "繁體中文（臺灣）",
+    "fallen.checkbox.fps.name": "最大 FPS",
+    "fallen.checkbox.lang.name": "語言選擇",
+    "fallen.button.start": "開始",
+    "fallen.game.piece.white": "白棋",
+    "fallen.game.piece.black": "黑棋",
+    "fallen.play.pvp": "PvP（雙人遊戲）",
+    "fallen.play.pve": "PvE（單人遊戲）",
+    "fallen.lock.pve.info": "PvE 尚未開放！",
+    "fallen.play.select.title": "遊戲模式選擇（PvP/PvE）",
+    "fallen.game.specifier.turn": "回合", 
+    "traditional.fourth.settings": "设置", 
+    "traditional.fourth.settings.max_fps": "最大 FPS", 
+    "traditional.fourth.settings.lang": "言語", 
+    "fallen.setting.ear.name": "環境失手價（EAR）", 
+    "fallen.checkbox.ear.name": "環境失手價選擇"
+}

@@ -1,0 +1,19 @@
+{
+    "fallen.title": "떨어트리지 마세요", 
+    "traditional.fourth.langname": "한국어", 
+    "fallen.checkbox.fps.name": "FPS 최대값 설정", 
+    "fallen.checkbox.lang.name": "언어 설정", 
+    "fallen.button.start": "시작합시다!",
+    "fallen.game.piece.white": "흰 돌", 
+    "fallen.game.piece.black": "검은 돌", 
+    "fallen.play.pvp": "PvP (2 플레이어)", 
+    "fallen.play.pve": "PvE (1 플레이어)", 
+    "fallen.lock.pve.info": "PvE는 아직 출시되지 않았습니다!", 
+    "fallen.play.select.title": "모드 선택 (PvP/PvE)", 
+    "fallen.game.specifier.turn": "턴", 
+    "traditional.fourth.settings": "설정", 
+    "traditional.fourth.settings.max_fps": "FPS 최대값", 
+    "traditional.fourth.settings.lang": "언어", 
+    "fallen.setting.ear.name": "환경실수값 (EAR)", 
+    "fallen.checkbox.ear.name": "환경실수값 선택"
+}
